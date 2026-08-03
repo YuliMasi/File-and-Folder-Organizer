@@ -4,3 +4,9 @@ from pathlib import Path #It allows you to manage file system paths
 
 #file path to sort example
 file_path = r"C:\Users\Yuliana\Downloads\Pictures"
+
+types={
+    "type_png":".png",
+    "type_jpg":".jpg",
+    "type_svg":".svg"
+}
